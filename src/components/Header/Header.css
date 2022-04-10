@@ -1,0 +1,22 @@
+.header{
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    height: 80px;
+}
+
+.menuItem{
+    display: flex;
+}
+
+.menuItem a{
+    color: #fff;
+    font-size: 17px;
+    padding-left: 70px;
+}
+
+.menuItem a:hover{
+    color: orange;
+}
